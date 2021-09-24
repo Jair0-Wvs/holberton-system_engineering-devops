@@ -1,2 +1,2 @@
-#!/bin/bash
-chmod [[:upper]]* /tmp/u 
+#!/bin/bash 
+chmod mv [[:upper]]* /tmp/u 
