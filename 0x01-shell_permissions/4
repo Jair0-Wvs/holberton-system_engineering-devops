@@ -1,0 +1,45 @@
+total 64
+-rwxr-xr-x 1 root root 21 Sep 23 16:44 0-iam_betty
+-rwxrwxrwx 1 root root 28 Sep 23 19:34 10-mirror_permissions
+-rwxr-xr-x 1 root root 24 Sep 23 20:59 11-directories_permissions
+-rwxrwxrwx 1 root root 32 Sep 23 21:27 12-directory_permissions
+-rwxrwxrwx 1 root root 31 Sep 23 21:54 13-change_group
+-rwxrwxrwx 1 root root 19 Sep 23 17:04 1-who_am_i
+-rwxrwxrwx 1 root root 19 Sep 23 17:08 2-groups
+-rwxrwxrwx 1 root root 30 Sep 23 17:35 3-new_owner
+-rw-r--r-- 1 root root  0 Sep 27 15:25 4
+-rwxrwxrwx 1 root root  0 Sep 27 15:08 4-empty
+-rwxrwxrwx 1 root root 28 Sep 23 18:07 5-execute
+-rwxr-xr-x 1 root root 28 Sep 23 18:21 6-multiple_permissions
+-rwxr-xr-x 1 root root 27 Sep 23 18:50 7-everybody
+-rwxrwxrwx 1 root root 28 Sep 23 18:54 8-James_Bond
+-rwxr-xr-x 1 root root 28 Sep 23 19:03 9-John_Doe
+-rwxr-xr-x 1 root root  5 Sep 23 17:28 betty
+--wxr-xr-x 1 root root  0 Sep 23 18:02 hello
+drwxr-x--x 2 root root  6 Sep 23 21:27 my_dir
+--wxr-xr-x 1 root root  5 Sep 23 19:19 olleh
+-rwxrwxrwx 1 root root  0 Sep 24 10:20 prueba1
+-rwxrwxrwx 1 root root  0 Sep 24 10:20 prueba2
+-rwxr-xr-x 1 root root  7 Sep 23 16:50 README.md
+0-iam_betty
+10-mirror_permissions
+11-directories_permissions
+12-directory_permissions
+13-change_group
+1-who_am_i
+2-groups
+3-new_owner
+4
+4-empty
+5-execute
+6-multiple_permissions
+7-everybody
+8-James_Bond
+9-John_Doe
+betty
+hello
+my_dir
+olleh
+prueba1
+prueba2
+README.md
